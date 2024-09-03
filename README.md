@@ -1,2 +1,3 @@
 # OS2-Labs
-Operating Systems II - Year II Sem II
+
+Solutions to all lab assignments given during the OS II course. (C + Linux & Python)
