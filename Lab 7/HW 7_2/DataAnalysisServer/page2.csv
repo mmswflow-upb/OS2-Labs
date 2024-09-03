@@ -1,0 +1,13 @@
+disease,severity
+heatstroke,low
+hypothermia,low
+allergies,emergency
+asthma,warning
+hay fever,emergency
+influenza,warning
+frostbite,warning
+common cold,normal
+headache,normal
+skin rash,low
+dehydration,warning
+sunburn,low
